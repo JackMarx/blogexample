@@ -20,10 +20,12 @@ body {
   color: white;
 }
 
-.container {
+#container {
   margin: 100px auto;
   width: 500px;
 }
+
+#header
 
 /* unvisited link */
 a:link {
